@@ -1,0 +1,32 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+img{width:100%;}
+.no-line-height{line-height:0;}
+ul{margin:0; padding:0; list-style:none;}
+ul li{  padding:0 0 0 25px; position:relative;}
+ul li input{position: absolute; top:5px; left:0; opacity:0.5;}
+
+.max-width-4{max-width:64em}
+.max-width-3{max-width:52em}
+.max-width-2{max-width:40em}
+
+a .image{transition:.2s ease all; opacity:1;}
+a:hover .image{opacity:0.2;}
+.ingredients p{margin-bottom:0.5rem;}
+
+.ratio{padding-top:50%; background-position: center center; background-repeat:no-repeat;}
+
+@media all and (max-width:40em){
+.left-align{text-align:center;}
+.right-align{text-align:center;}
+}
+
+@media all and (max-width: 300px){
+.title{font-size:1.3rem; text-align:center; box-sizing:border-box; width:100%;}
+.xs-center{text-align: center}
+.site-title{bottom:-28px; top:auto; left:50%; margin-left:-25px; border-radius:200px; transition:.2s ease bottom}
+.site-title:hover{bottom:-14px;}
+.recipes .sm-col{border-bottom:3px solid white}
+}
