@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Skutina torta (cheescake)
+title: Skutina torta (cheesecake)
 tags: baking
 yield: manjša torta (~23 cm premera)
 image: skutina-torta.jpg
