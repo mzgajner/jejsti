@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Vanilijeva krema (creme patissiere)
+title: Vanilijeva krema (crème pâtissière)
 tags: baking
 yield: za eno pito kreme (~800 g)
 
