@@ -1,4 +1,4 @@
-# Chowdown
+# Jejsti
 
 It's a Jekyll setup that lets you write recipes in Markdown and get a minimal mobile-friendly page that follows the [Schema.org Recipe microformat](//schema.org/Recipe).
 
