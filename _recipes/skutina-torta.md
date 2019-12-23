@@ -5,6 +5,7 @@ title: Skutina torta (cheesecake)
 tags: baking
 yield: manjša torta (~23 cm premera)
 image: skutina-torta.jpg
+source: https://foodwishes.blogspot.com/2010/10/new-york-style-sunshine-cheesecake.html
 
 ingredients:
 - 250 g polnozrnatih piškotov (Gran Cereale)
