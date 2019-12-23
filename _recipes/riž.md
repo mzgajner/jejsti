@@ -19,4 +19,4 @@ directions:
 
 ---
 
-Kitajci imajo poševne oči, ker jim je nad krožnikom med dlanmi sleherni dan obvisela skrušena glava ter so zastokali, oh, spet riž.
+Na slovenskem je popularnejša alternativna receptura, kjer dodate žlico olja, podvojite količino vode in čas kuhanja ter servirate z zajemalko.
