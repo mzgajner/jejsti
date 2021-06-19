@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: Kimchijeon (korejska slana palačinka)
-tags: appetizer
+title: Korejska slana palačinka (Kimchijeon)
+tags: side, korean, snack
 yield: 1 palačinka
 
 ingredients:
@@ -19,7 +19,7 @@ directions:
 - Vse sestavine razen sezama zmešaj v maso.
 - Ponev segrej na visoko temperaturo, dodaj olje in pripravljeno maso.
 - Po vrhu posuj sezam in zapeci do zlatorjave barve.
-- Obrni palačinko, ob robovih prilij še malo olja in zapeci še po drugi strani.
+- Obrni palačinko, ob robovih prilij malo olja in zapeci po drugi strani.
 
 ---
 
