@@ -17,8 +17,8 @@ ingredients:
 
 directions:
 
-- Čebulo nasekljamo, česen stisnemo v stiskalniku.
-- Vse sestavine zmešamo.
+- Nasekljaj čebulo in v stiskalniku stisni česen.
+- Vse sestavine zmešaj.
 
 
 ---
