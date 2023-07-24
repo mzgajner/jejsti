@@ -17,7 +17,6 @@ directions:
   - Z dvema žlicama oblikuj maso v ~25-gramske kroglice.
   - Zloži jih na pekač, pokrit s papirjem za peko.
   - Peci pri 200 °C za 18 minut.
-
 ---
 
 <Recipe :data="$frontmatter" />

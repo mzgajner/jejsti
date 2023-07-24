@@ -1,6 +1,7 @@
 ---
 title: Stiskanje tortilj
 ---
+
 # Stiskanje tortilj
 
 Tortilje je najlažje stiskati z [namensko napravo](https://en.wikipedia.org/wiki/Tortilla_press), katere nakup pa ni smotrn, če jih ne pripravljaš dovolj pogosto. Spodnja tehnika predstavlja razumno alternativo, izvedljivo brez specializirane opreme.
