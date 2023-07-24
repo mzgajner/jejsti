@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^13.0.1",
+    "prettier": "^3.0.0",
+    "vitepress": "^1.0.0-beta.6"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "type": "module"
+}
