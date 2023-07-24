@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import Theme from 'vitepress/theme'
 import Recipe from './Recipe.vue'
+import Search from './Search.vue'
 import './style.css'
 
 export default {
@@ -13,5 +14,6 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     app.component('Recipe', Recipe)
+    app.component('Search', Search)
   },
 }

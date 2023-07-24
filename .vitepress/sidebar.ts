@@ -1,7 +1,9 @@
 import fs from 'fs'
 import matter from 'gray-matter'
 
-function generateMarkdownLinks(folder: string) {
+type Link = { text: string; link: string }
+
+function generateMarkdownLinks(folder: string): Link[] {
   const filenames = fs
     .readdirSync(`${__dirname}/../${folder}`)
     .sort((a, b) => a.localeCompare(b, 'sl'))
@@ -12,7 +14,11 @@ function generateMarkdownLinks(folder: string) {
       { encoding: 'utf8' },
     )
     const parsed = matter(fileContents)
-    return { text: parsed.data.title, link: `/${folder}/${filename}` }
+    const filenameWithoutExtension = filename.replace('.md', '')
+    return {
+      text: parsed.data.title,
+      link: `/${folder}/${filenameWithoutExtension}`,
+    }
   })
 
   return items
