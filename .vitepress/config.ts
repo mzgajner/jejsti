@@ -6,6 +6,7 @@ export default defineConfig({
   title: 'Jejsti',
   description: 'Mate kaj za jejsti?',
   themeConfig: {
+    logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     sidebar: [
       {
@@ -19,7 +20,10 @@ export default defineConfig({
     ],
     docFooter: {
       prev: 'Prejšnji recept',
-      next: 'Naslednji recept'
-    }
+      next: 'Naslednji recept',
+    },
+    darkModeSwitchLabel: 'Črno',
+    sidebarMenuLabel: 'Meni',
+    returnToTopLabel: 'Na vrh',
   },
 })
