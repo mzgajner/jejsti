@@ -5,6 +5,7 @@ import { recipes, techniques } from './sidebar'
 export default defineConfig({
   title: 'Jejsti',
   description: 'Mate kaj za jejsti?',
+  outDir: 'build',
   themeConfig: {
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
