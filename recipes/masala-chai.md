@@ -6,13 +6,13 @@ yield: 2 porciji
 ingredients:
   - 240 ml vode
   - 240 ml mleka
-  - 80 g svežega ingverja
+  - 20 g naribanega svežega ingverja
   - 3 žličke črnega čaja
   - 2 žlički sladkorja
   - 2 zelena kardamoma
   - 2 klinčka
   - košček celega cimeta
-  - 8 zrn črnega popra
+  - 3 zrna črnega popra
 
 directions:
   - V lonec daj vodo, začimbe in ingver ter segrej do vretja.
