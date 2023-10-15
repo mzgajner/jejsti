@@ -2,19 +2,22 @@
 title: Carski praženec (šmorn)
 tags: dessert
 yield: 2 porciji
+source: https://okusno.je/recept/cesarski-prazenec
 
 ingredients:
-  - 70 g gladke moke
-  - 60 ml mleka
   - 2 jajci
-  - 70 ml sladke smetane
+  - 250 ml mleka
+  - vanilin sladkor
   - 30 g sladkorja
   - ščepec soli
+  - 110 g gladke moke
   - košček masla za peko
 
 directions:
-  - Zmešaj moko, mleko, smetano, rumenjaka in sol.
-  - V ločeni posodi stepaj sneg iz beljakov; ko se prične peniti, postopoma dodaj sladkor.
+  - Loči beljake in rumenjake v dve posodi.
+  - K rumenjakom primešaj mleko, vanilijev sladkor, ½ sladkorja in sol.
+  - Postopoma dodajaj moko in zmešaj v gladko maso.
+  - Iz beljakov stepi sneg, postopoma mu dodaj preostalo ½ sladkorja.
   - Stepen sneg vmešaj v izhodiščno maso.
   - Ponev segrej na srednjem ognju, raztopi maslo in vlij polovico mase.
   - Zapeci do zlatorjave barve, obrni in popeci še po drugi strani.
