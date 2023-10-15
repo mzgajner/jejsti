@@ -20,7 +20,7 @@ directions:
   - Dodaj sladkor in mleko ter znova segrevaj do vretja.
   - Pokrito pusti stati 1 minuto, precedi in postrezi.
 
-quip: Masala chai je priročna alternativa, ko se med dolgo zimo naveličate kakava.
+tip: Masala chai je priročna alternativa, ko se med dolgo zimo naveličate kakava.
 ---
 
 <Recipe :data="$frontmatter" />

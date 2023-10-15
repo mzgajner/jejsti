@@ -36,7 +36,7 @@ directions:
   - Odstaviš z ognja ter dodaš kakav ali čokolado.
   - Po potrebi dodaš sol ali čili in pustiš pokrito stati še vsaj 15 min.
 
-quip: Čili jedo v Mehiki, pa tudi pri nas.
+tip: Čili jedo v Mehiki, pa tudi pri nas.
 ---
 
 <Recipe :data="$frontmatter" />

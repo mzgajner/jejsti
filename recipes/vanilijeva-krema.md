@@ -22,7 +22,7 @@ directions:
   - Kremo prestavi v čisto posodo in jo po celotni površini direktno prekrij z živilsko folijo, da se na vrhu ne naredi skorja.
   - Ko se ohladi, shrani v hladilnik, kjer lahko počaka do 3 dni.
 
-quip: Vanilijeva krema se lahko je na žlico, dobra pa je tudi v pecivu.
+tip: Vanilijeva krema se lahko je na žlico, dobra pa je tudi v pecivu.
 ---
 
 <Recipe :data="$frontmatter" />

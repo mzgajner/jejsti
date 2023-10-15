@@ -28,7 +28,7 @@ directions:
   - Pečeš na 175 °C od 45 do 60 minut oz. dokler ne prestane zobotrebec testa.
   - V pekaču hladiš 20 minut, nato prekucneš in na rešetki ohladiš do konca.
 
-quip: Najpopularnejši recept, ko _nekdo_ ni pravočasno pojedel banan in jih je treba nekako porabiti.
+tip: Najpopularnejši recept, ko *nekdo* ni pravočasno pojedel banan in jih je treba nekako porabiti.
 ---
 
 <Recipe :data="$frontmatter" />

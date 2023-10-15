@@ -11,11 +11,12 @@ ingredients:
   - ščepec soli
 
 directions:
-  - Suh riž v loncu popraži na velikem ognju.
+  - Olje segrej na velikem ognju.
+  - V lonec dodaj suh riž in ga popraži.
   - Dodaj vodo in sol ter zmanjšaj ogenj.
   - Odkrito kuhaj 10 minut.
 
-tip: Na slovenskem je popularnejša alternativna receptura, kjer dodate žlico olja, podvojite količino vode in čas kuhanja ter servirate z zajemalko.
+tip: Na slovenskem je popularnejša alternativna receptura, kjer dodate še žlico olja, podvojite količino vode in čas kuhanja ter servirate z zajemalko.
 ---
 
 <Recipe :data="$frontmatter" />

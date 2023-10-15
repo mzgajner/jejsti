@@ -21,7 +21,7 @@ directions:
   - Po želji s spatulo razdrobi na kose.
   - Prestavi na krožnik in ponovi postopek za drugo polovico mase.
 
-quip: K šmornu se prileže čokoladni namaz, marmelada, javorjev sirup ali sadje; manj kultivirani ga jedo tudi zgolj posutega s sladkorjem v prahu.
+tip: K šmornu se prileže čokoladni namaz, marmelada, javorjev sirup ali sadje; manj kultivirani ga jedo tudi zgolj posutega s sladkorjem v prahu.
 ---
 
 <Recipe :data="$frontmatter" />

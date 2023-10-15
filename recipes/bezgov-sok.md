@@ -1,7 +1,7 @@
 ---
 title: Bezgov sok
 tags: drink
-yield: 1.5 litra
+yield: 1,5 litra
 
 ingredients:
   - 1 l vode

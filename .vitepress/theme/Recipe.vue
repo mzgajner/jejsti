@@ -1,7 +1,8 @@
 <template>
   <h1>{{ data.title }}</h1>
-  <img v-if="data.image" :src="data.image" />
-  <h3>Sestavine:</h3>
+  <h4 v-if="data.yield">Količina: {{ data.yield }}</h4>
+  <img class="image" v-if="data.image" :src="data.image" />
+  <h3>Sestavine</h3>
   <ul>
     <li class="item" v-for="(ingredient, index) in data.ingredients">
       <input :id="`ingredient-${index}`" type="checkbox" />
@@ -12,7 +13,7 @@
       />
     </li>
   </ul>
-  <h3>Postopek:</h3>
+  <h3>Postopek</h3>
   <ul>
     <li class="item" v-for="(direction, index) in data.directions">
       <input :id="`direction-${index}`" type="checkbox" />
@@ -23,6 +24,7 @@
       />
     </li>
   </ul>
+  <blockquote v-if="data.tip" class="tip">{{ data.tip }}</blockquote>
   <!-- {{ data }} -->
 </template>
 
@@ -35,7 +37,8 @@ defineProps<{
     image?: string
     ingredients: string[]
     directions: string[]
-    quip?: string
+    tip?: string
+    yield?: string
   }
 }>()
 
@@ -67,6 +70,17 @@ ul {
   margin-right: 0.5rem;
   margin-top: 7px;
 }
+
+.image {
+  margin-top: 1rem;
+}
+
+.tip {
+  font-style: italic;
+  margin-top: 2rem;
+  color: var(--vp-c-text-2);
+}
+
 </style>
 
 <style>

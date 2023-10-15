@@ -19,7 +19,7 @@ directions:
   - Oblikuješ kroglice, v vsako potisneš mandelj in jo povaljaš v preostanku kokosove moke.
   - Do zaužitja hraniš v zaprti posodi v hladilniku.
 
-tip: Po malem. _--Konfucij_
+tip: Po malem. --Konfucij
 ---
 
 <Recipe :data="$frontmatter" />

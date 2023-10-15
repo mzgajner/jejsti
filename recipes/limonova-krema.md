@@ -19,7 +19,7 @@ directions:
   - Precedi skozi gosto cedilo, da odstraniš večje delce kuhanih jajc.
   - V hladilniku hrani do 14 dni.
 
-quip: Najbolj okusne so ekološke limone iz Hoferja, bolj kisel je njihov odnos do brezdomcev.
+tip: Najbolj okusne so ekološke limone iz Hoferja, bolj kisel je njihov odnos do brezdomcev.
 ---
 
 <Recipe :data="$frontmatter" />
