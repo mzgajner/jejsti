@@ -25,6 +25,9 @@
     </li>
   </ul>
   <blockquote v-if="data.tip" class="tip">{{ data.tip }}</blockquote>
+  <div v-if="data.source" class="source-link">
+    <a :href="data.source" target="_blank">Originalen recept →</a>
+  </div>
   <!-- {{ data }} -->
 </template>
 
@@ -39,6 +42,7 @@ defineProps<{
     directions: string[]
     tip?: string
     yield?: string
+    source?: string
   }
 }>()
 
@@ -81,6 +85,10 @@ ul {
   color: var(--vp-c-text-2);
 }
 
+.source-link {
+  font-size: 0.85rem;
+  margin-top: 2rem;
+}
 </style>
 
 <style>
