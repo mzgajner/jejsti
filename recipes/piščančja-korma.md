@@ -22,7 +22,6 @@ directions:
   - Dodaj na trakce narezano piščančje meso in kuhaj do mehkega.
   - Primešaj čebulno pasto in obe moki ter kuhaj še nekaj minut.
   - Vmešaj smetano in osoli.
-
 ---
 
 <Recipe :data="$frontmatter" />
