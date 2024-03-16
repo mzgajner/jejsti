@@ -1,5 +1,5 @@
 ---
-title: Korejska omaka za žar (Ssamjang)
+title: Korejska omaka za žar (ssamjang)
 tags: sauce
 yield: dve porciji
 source: https://www.seriouseats.com/ssamjang-korean-barbecue-dipping-sauce

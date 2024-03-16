@@ -1,5 +1,5 @@
 ---
-title: Obara s kimčijem (Kimchi jjigae)
+title: Obara s kimčijem (kimchi-jjigae)
 tags: soup
 yield: 3 porcije
 source: https://www.maangchi.com/recipe/kimchi-jjigae

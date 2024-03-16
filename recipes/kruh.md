@@ -4,7 +4,7 @@ tags: baking
 yield: 1 manjši kruh
 
 ingredients:
-  - 500 g bele moke (do 200g lahko nadomestiš s poljubno temno)
+  - 500 g bele moke (do 200 g lahko nadomestiš s poljubno temno)
   - 10 g suhega kvasa
   - 10 g soli
   - 30 g masla

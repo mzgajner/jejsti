@@ -1,5 +1,5 @@
 ---
-title: Korejska slana palačinka (Kimchijeon)
+title: Korejska slana palačinka (kimchi-jeon)
 tags: side, korean, snack
 yield: 1 palačinka
 
