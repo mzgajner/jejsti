@@ -1,5 +1,5 @@
 ---
-title: Firecracker omaka
+title: Yakitori omaka
 tags: sauce, asian, japanese
 yield: 100 g
 
