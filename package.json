@@ -8,9 +8,9 @@
   },
   "devDependencies": {
     "gray-matter": "^4.0.3",
-    "markdown-it": "^14.0.0",
+    "markdown-it": "^14.1.0",
     "prettier": "^3.2.5",
-    "vitepress": "^1.0.0-rc.45"
+    "vitepress": "^1.1.0"
   },
   "prettier": {
     "semi": false,
