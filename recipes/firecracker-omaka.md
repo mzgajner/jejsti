@@ -1,7 +1,7 @@
 ---
 title: Firecracker omaka
 tags: sauce, asian, spicy
-yield: 2 porciji
+yield: 4 porcije
 
 ingredients:
   - 50 ml [yakitori omake](/recipes/yakitori-omaka.html)
