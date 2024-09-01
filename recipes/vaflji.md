@@ -1,24 +1,25 @@
 ---
 title: Vaflji
-tags: side
-yield: 4 vaflji
+tags: dessert
+yield: 10 debelih vafljev
 source: https://www.joshuaweissman.com/post/perfect-homemade-waffles
 
 ingredients:
-  - 100 g moke
-  - 15 g sladkorja
-  - 5 g pecilnega praška
-  - ščep soli
-  - jajce
-  - 80 ml mleka
-  - 40 g jogurta
-  - 55 g masla
-  - vanilija
+  - 100 g masla
+  - 3 jajca
+  - 2 vanilijeva sladkorja
+  - 250 g moke
+  - 1½ žlićke pecilnega praška
+  - ½ žličke soli
+  - 250 ml mleka
 
 directions:
   - V lončku stopi maslo.
-  - Vse sestavine mešaj ravno toliko, da dobiš enotno maso.
-  - 3 minute peci v pekaču za vaflje.
+  - Jajca loči na rumenjake in beljake.
+  - Beljake stepi v trd sneg.
+  - Vse sestavine razen snega v skledi zmešaj v enovito zmes.
+  - Nazadnje s spatulo nežno vmešaj sneg.
+  - 5 minut peci v pekaču za belgijske vaflje na najvišji nastavitvi.
 ---
 
 <Recipe :data="$frontmatter" />
