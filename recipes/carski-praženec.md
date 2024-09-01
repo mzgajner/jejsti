@@ -7,7 +7,7 @@ source: https://okusno.je/recept/cesarski-prazenec
 ingredients:
   - 2 jajci
   - 250 ml mleka
-  - vanilin sladkor
+  - 1 vanilijev sladkor
   - 30 g sladkorja
   - ščepec soli
   - 110 g gladke moke

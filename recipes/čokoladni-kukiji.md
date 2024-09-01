@@ -14,13 +14,13 @@ ingredients:
   - 170 g sladkorja
   - 170 g rjavega sladkorja
   - 2 veliki jajci
-  - 1 vanilin sladkor
+  - 1 vanilijev sladkor
   - 400 g čokolade v koščkih
 
 directions:
   - Temeljito zmešaj moko, pecilni prašek, sodo in sol.
   - v skledi z mikserjem zmešaj maslo, rjavi in beli sladkor v gladko zmes (~3 minute).
-  - Eno po eno vmešaj jajca in nazadnje vanilin sladkor.
+  - Eno po eno vmešaj jajca in nazadnje vanilijev sladkor.
   - Dodaj moko in mešaj samo toliko, da se zmes poenoti.
   - Dodaj čokolado in mešaj nekaj sekund, da se koščki razporedijo.
   - Pokri testo in ga spravi v hladilnik za 24-48 ur.

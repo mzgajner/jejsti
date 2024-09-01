@@ -11,7 +11,7 @@ ingredients:
   - 100 g sladkorja
   - 80 gramov masla
   - 80 gramov smetane
-  - vanilijev sladkor
+  - 1 vanilijev sladkor
 
 directions:
   - Operi in odcedi riž.
