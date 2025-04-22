@@ -11,8 +11,8 @@ ingredients:
   - 1 žlička sode
   - 1 žlička grobe soli
   - 225 g masla na sobni temperaturi v kockah
-  - 170 g sladkorja
-  - 170 g rjavega sladkorja
+  - 120 g sladkorja
+  - 120 g rjavega sladkorja
   - 2 veliki jajci
   - 1 vanilijev sladkor
   - 400 g čokolade v koščkih
