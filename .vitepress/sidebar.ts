@@ -9,10 +9,9 @@ function generateMarkdownLinks(folder: string): Link[] {
     .sort((a, b) => a.localeCompare(b, 'sl'))
 
   const items = filenames.map((filename) => {
-    const fileContents = fs.readFileSync(
-      `${__dirname}/../${folder}/${filename}`,
-      { encoding: 'utf8' },
-    )
+    const fileContents = fs.readFileSync(`${__dirname}/../${folder}/${filename}`, {
+      encoding: 'utf8',
+    })
     const parsed = matter(fileContents)
     const filenameWithoutExtension = filename.replace('.md', '')
     return {

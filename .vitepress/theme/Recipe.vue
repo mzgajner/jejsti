@@ -6,22 +6,14 @@
   <ul>
     <li class="item" v-for="(ingredient, index) in data.ingredients">
       <input :id="`ingredient-${index}`" type="checkbox" />
-      <label
-        :for="`ingredient-${index}`"
-        class="label"
-        v-html="renderMarkdown(ingredient)"
-      />
+      <label :for="`ingredient-${index}`" class="label" v-html="renderMarkdown(ingredient)" />
     </li>
   </ul>
   <h3>Postopek</h3>
   <ul>
     <li class="item" v-for="(direction, index) in data.directions">
       <input :id="`direction-${index}`" type="checkbox" />
-      <label
-        :for="`direction-${index}`"
-        class="label"
-        v-html="renderMarkdown(direction)"
-      />
+      <label :for="`direction-${index}`" class="label" v-html="renderMarkdown(direction)" />
     </li>
   </ul>
   <blockquote v-if="data.tip" class="tip">{{ data.tip }}</blockquote>

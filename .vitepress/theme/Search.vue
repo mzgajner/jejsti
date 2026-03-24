@@ -7,12 +7,7 @@
     <input type="text" v-model="searchTerm" autofocus placeholder="išči" />
 
     <div class="results">
-      <a
-        class="result"
-        v-for="match in matches"
-        :key="match.link"
-        :href="match.link"
-      >
+      <a class="result" v-for="match in matches" :key="match.link" :href="match.link">
         {{ match.text }}
       </a>
     </div>
@@ -31,9 +26,7 @@ const matches = computed(() => {
   if (searchTerm.value.length < 2) return []
   const lowercaseTerm = searchTerm.value.toLocaleLowerCase()
   const recipes = data.site.value.themeConfig.sidebar[0].items
-  return recipes.filter((recipe) =>
-    recipe.text.toLocaleLowerCase().includes(lowercaseTerm),
-  )
+  return recipes.filter((recipe) => recipe.text.toLocaleLowerCase().includes(lowercaseTerm))
 })
 </script>
 
