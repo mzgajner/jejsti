@@ -5,16 +5,12 @@
     "dev": "bunx vitepress dev",
     "build": "bunx vitepress build",
     "preview": "bunx vitepress preview",
-    "format": "bunx prettier --write ."
+    "format": "bunx oxfmt"
   },
   "devDependencies": {
     "gray-matter": "^4.0.3",
-    "markdown-it": "^14.1.0",
-    "prettier": "^3.2.2",
-    "vitepress": "^1.6.3"
-  },
-  "prettier": {
-    "semi": false,
-    "singleQuote": true
+    "markdown-it": "^14.1.1",
+    "oxfmt": "latest",
+    "vitepress": "^1.6.4"
   }
 }
