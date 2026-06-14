@@ -1,0 +1,58 @@
+---
+title: Cimetove rolice
+tags: baking, dessert
+yield: 12 rolic
+source: https://www.allrecipes.com/recipe/279198/chef-johns-sticky-buns/
+
+ingredients:
+  - Testo:
+    - 160 ml mlačne vode
+    - 160 ml mlačnega mleka
+    - 7 g suhega kvasa
+    - 85 g masla
+    - 25 g sladkorja
+    - 1 jajce
+    - 500 g moke
+    - 9 gramov soli
+  - Preliv:
+    - 110 g rjavega sladkorja
+    - 50 g sladkorja
+    - ščepec soli
+    - 85 g masla
+    - 45 ml vode
+    - 100 g sesekljanih pekan orehov
+  - Nadev:
+    - 165 g rjavega sladkorja
+    - 1 žlička cimeta
+
+directions:
+  - Testo:
+    - V skledi zmešaj vodo, mleko in kvas. Pusti stati 10 minut.
+    - Stopi maslo in ga skupaj s sladkorjem in stepenim jajcem vmešaj v kvasno zmes.
+    - Dodaj moko in sol ter v mešalniku z nastavkom za testo gneti 5 minut.
+    - Pokrij in pusti vzhajati na toplem do dvakratnega volumna (~1 h).
+  - Preliv:
+    - Stopi maslo v kozici in jo odstavi z ognja.
+    - Dodaj rjavi in beli sladkor, ščepec soli in vodo.
+    - Vse skupaj zmešaj v gladko zmes.
+    - Globok pekač (34 × 24 cm) izdatno namaži z maslom.
+    - Preliv enakomerno razlij po dnu pekača in po vrhu posuj pekan orehe.
+  - Priprava:
+    - Za nadev zmešaj rjavi sladkor in cimet.
+    - Testo prestavi na rahlo pomokan pult in ga raztegni v pravokotnik velikosti ~38 × 45 cm.
+    - Nadev enakomerno raztresi po testu, ob enem daljšem robu pusti 5 cm nepokritega testa.
+    - Nadev rahlo vtisni v testo in ga po dolžini zvij v tesno rolado (končaj pri nenadevanem robu).
+    - Rolado po dolžini razdeli na 12 enako velikih kosov in vanjo zareži oznake.
+    - Z izredno ostrim nožem jo previdno nareži in pri tem čimmanj mečkaj testo.
+    - Rolice zloži v pekač v 3 vrste po 4.
+    - Pokrij jih z živilsko folijo in pusti vzhajati 45 - 60 minut, da se volumen skoraj podvoji.
+    - Peci pri 190 °C približno 35 minut oz. dokler notranja temperatura ne doseže 93 °C.
+    - Če se vrhovi prehitro zapečejo, jih zadnjih 5 - 10 minut peke pokrij z aluminijasto folijo.
+    - Vzemi rolice iz pečice in jih 5 minut ohlajaj na pultu.
+    - Pekač previdno prekucni na servirni pladenj in z žlico po vrhu razporedi morebitne ostanke preliva iz pekača.
+    - Rolice postrezi tople ali na sobni temperaturi.
+
+tip: Če nimaš res ostrega noža, lahko za rezanje uporabiš zobno nitko - napelješ jo pod rolado, nato pa prekrižaš konca nad njo in zategneš, kot bi zavezal vozel.
+---
+
+<Recipe :data="$frontmatter" />
