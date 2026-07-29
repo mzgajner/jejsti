@@ -1,0 +1,27 @@
+---
+title: Baba ghanoush
+
+source: https://displaceddishes.com/product/the-book-en
+tags: dip
+yield: 2 porciji
+
+ingredients:
+  - 3 srednje veliki jajčevci
+  - 3 stroki česna
+  - 2 veliki žlici limoninega soka
+  - 3 velike žlice tahinija
+  - 80 ml olivnega olja
+  - šop sesekljanega peteršilja
+  - sol
+
+directions:
+  - Pečico segrej na 200 °C.
+  - Jajčevce prereži na pol (po dolžini) in jih položi s prerezano stranjo navzdol na pekač, pokrit s peki papirjem.
+  - Peci v sredini pečice ~40 minut, dokler niso lepo popečeni in mehki (čas peke je zelo odvisen od velikosti jajčevcev).
+  - Z žlico postrgaj meso v skledo, lupine zavrzi.
+  - Dodaj stisnjen česen in limonin sok ter z vilico zmešaj v pasto.
+  - Dodaj tahini in med mešanjem počasi prilivaj olivno olje.
+  - Soli po okusu ter serviraj posuto s sesekljanim peteršiljem.
+---
+
+<Recipe :data="$frontmatter" />
